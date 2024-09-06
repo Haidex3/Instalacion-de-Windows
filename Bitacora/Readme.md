@@ -143,4 +143,20 @@
 
 ![Repositorio Github](Imagenes/Captura38.png)
 
-**- cLICK
+**- Le damos click derecho y en "New User"**
+
+![Repositorio Github](Imagenes/Captura39.png)
+
+**- Completamos los datos solicitados para cada usuario**
+
+![Repositorio Github](Imagenes/Captura40.png)
+
+![Repositorio Github](Imagenes/Captura41.png)
+
+![Repositorio Github](Imagenes/Captura42.png)
+
+**- Y finalmente verificamos que aparezcan dichos usuarios**
+
+![Repositorio Github](Imagenes/Captura43.png)
+
+**- En este punto se deberia iniciar la configuracion de red, sin embargo al no estar disponible por el momento lo dejaremos momentaneamente por aqui**
