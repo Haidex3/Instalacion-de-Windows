@@ -80,3 +80,15 @@
 ![Repositorio Github](Imagenes/Captura20.png)
 
 **- Momentaneamente esta maquina se queda hasta este punto, ya que no contamos con accesos a los computadores de la universidad por el momento**
+
+###Maquina #2 (Con interfaz)
+
+**- Igual que ocn la anterior realizamos los primeros pasos de la misma manera**
+
+![Repositorio Github](Imagenes/Captura21.png)
+
+![Repositorio Github](Imagenes/Captura22.png)
+
+![Repositorio Github](Imagenes/Captura23.png)
+
+![Repositorio Github](Imagenes/Captura24.png)
