@@ -110,3 +110,5 @@
 ![Repositorio Github](Imagenes/Captura29.png)
 
 **- Y esperamos la que se termine la instalacion**
+
+![Repositorio Github](Imagenes/Captura30.png)
