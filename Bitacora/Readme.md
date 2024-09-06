@@ -112,3 +112,33 @@
 **- Y esperamos la que se termine la instalacion**
 
 ![Repositorio Github](Imagenes/Captura30.png)
+
+**- Iniciamos la configuracion asignando una contraseña para el perfil de Administrador "Root1234"
+
+![Repositorio Github](Imagenes/Captura31.png)
+
+**- Despues de accerder nos encontramos en el menu**
+
+![Repositorio Github](Imagenes/Captura32.png)
+
+**- Para poder crear los demas usuarios entramos en configuracion**
+
+![Repositorio Github](Imagenes/Captura33.png)
+
+**- Luego en "Accounts"**
+
+![Repositorio Github](Imagenes/Captura34.png)
+
+**- "Other Users"**
+
+![Repositorio Github](Imagenes/Captura35.png)
+
+**- Le damos en "Add"**
+
+![Repositorio Github](Imagenes/Captura36.png)
+
+**- Ingresamos a la carpetea de Users**
+
+![Repositorio Github](Imagenes/Captura37.png)
+
+**- cLICK
