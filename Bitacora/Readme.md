@@ -59,4 +59,4 @@
 
 ![Repositorio Github](Imagenes/Captura15.png)
 
-**- Nuevamente elegimos la opcion 1 para configurar la red**
+**- Momentaneamente esta parte se queda hasta este punto, ya que no contamos con accesos a los computadores de la universidad por el momento**
