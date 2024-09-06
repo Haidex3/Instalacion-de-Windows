@@ -92,3 +92,12 @@
 ![Repositorio Github](Imagenes/Captura23.png)
 
 ![Repositorio Github](Imagenes/Captura24.png)
+
+![Repositorio Github](Imagenes/Captura25.png)
+
+![Repositorio Github](Imagenes/Captura26.png)
+
+**- En este punto a diferencia de la maquina anterior, seleccionamos "Standard (Desktop Experience)"**
+
+![Repositorio Github](Imagenes/Captura27.png)
+
