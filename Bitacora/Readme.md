@@ -59,4 +59,24 @@
 
 ![Repositorio Github](Imagenes/Captura15.png)
 
+**- Nuevamenete seleccionamos la opcion 1 para configurar la red**
+
+![Repositorio Github](Imagenes/Captura16.png)
+
+**- Ponemos un "S"**
+
+![Repositorio Github](Imagenes/Captura17.png)
+
+**- Se escribe la IP dada por el laboratorio**
+
+![Repositorio Github](Imagenes/Captura18.png)
+
+**- Escribimos la mascara tambien dada por el laboratorio**
+
+![Repositorio Github](Imagenes/Captura19.png)
+
+**- Y escribimos el "Gateway"**
+
+![Repositorio Github](Imagenes/Captura20.png)
+
 **- Momentaneamente esta parte se queda hasta este punto, ya que no contamos con accesos a los computadores de la universidad por el momento**
