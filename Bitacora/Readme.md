@@ -117,28 +117,30 @@
 
 ![Repositorio Github](Imagenes/Captura31.png)
 
-**- Despues de accerder nos encontramos en el menu**
-
 ![Repositorio Github](Imagenes/Captura32.png)
 
-**- Para poder crear los demas usuarios entramos en configuracion**
+**- Despues de accerder nos encontramos en el menu**
 
 ![Repositorio Github](Imagenes/Captura33.png)
 
-**- Luego en "Accounts"**
+**- Para poder crear los demas usuarios entramos en configuracion**
 
 ![Repositorio Github](Imagenes/Captura34.png)
 
-**- "Other Users"**
+**- Luego en "Accounts"**
 
 ![Repositorio Github](Imagenes/Captura35.png)
 
-**- Le damos en "Add"**
+**- "Other Users"**
 
 ![Repositorio Github](Imagenes/Captura36.png)
 
-**- Ingresamos a la carpetea de Users**
+**- Le damos en "Add"**
 
 ![Repositorio Github](Imagenes/Captura37.png)
+
+**- Ingresamos a la carpetea de Users**
+
+![Repositorio Github](Imagenes/Captura38.png)
 
 **- cLICK
