@@ -101,3 +101,12 @@
 
 ![Repositorio Github](Imagenes/Captura27.png)
 
+**- Seleccionamos la instalacion "Custom"**
+
+![Repositorio Github](Imagenes/Captura28.png)
+
+**- Seleccionamos el disco recien creado**
+
+![Repositorio Github](Imagenes/Captura29.png)
+
+**- Y esperamos la que se termine la instalacion**
