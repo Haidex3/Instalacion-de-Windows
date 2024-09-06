@@ -79,4 +79,4 @@
 
 ![Repositorio Github](Imagenes/Captura20.png)
 
-**- Momentaneamente esta parte se queda hasta este punto, ya que no contamos con accesos a los computadores de la universidad por el momento**
+**- Momentaneamente esta maquina se queda hasta este punto, ya que no contamos con accesos a los computadores de la universidad por el momento**
