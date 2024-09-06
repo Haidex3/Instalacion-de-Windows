@@ -29,7 +29,7 @@
 
 **- Elegimos la instalacon personalizada**
 
-![Repositorio Github](Imagenes/Captura8.png)
+![Repositorio Github](Imagenes/Captura28.png)
 
 **- Seleccionamos el disoc recien creado**
 
