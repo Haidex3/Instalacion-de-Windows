@@ -1,4 +1,5 @@
 ### Creacion de la maquina virtual de Windows
+### Maquina #1 (Sin interfaz)
 **- Inicamos con una configuracion basica, colocandole su respectivo nombre**
 
 ![Repositorio Github](Imagenes/Captura1.png)
