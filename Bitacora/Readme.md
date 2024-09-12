@@ -77,9 +77,43 @@
 
 **- Y escribimos el "Gateway"**
 
-![Repositorio Github](Imagenes/Captura20.png)
+![Repositorio Github](Imagenes/Captura45.png)
 
-**- Momentaneamente esta maquina se queda hasta este punto, ya que no contamos con accesos a los computadores de la universidad por el momento**
+**- Luego de darle enter inresamos nuevamente al menu seleccionando la opcion 8**
+
+![Repositorio Github](Imagenes/Captura44.png)
+
+**- Ingresamos a la configuracion de DNS**
+
+![Repositorio Github](Imagenes/Captura46.png)
+
+**- Ingresamos el DNS dado por la guia**
+
+![Repositorio Github](Imagenes/Captura47.png)
+
+**- Salimos  de la configuracion eligiendo la opcion 15**
+
+![Repositorio Github](Imagenes/Captura48.png)
+
+**- Iniciamos las pruebas de ping, empezando por "8.8.8.8"**
+
+![Repositorio Github](Imagenes/Captura49.png)
+
+**- Hacemos las pruebas con todos los demas**
+
+![Repositorio Github](Imagenes/Captura50.png)
+
+**- Empezamos a agregar los 3 usuarios pedidos**
+
+![Repositorio Github](Imagenes/Captura51.png)
+
+**- Metemos a cada uno en un grupo distinto para que tengan diferentes permisos**
+
+![Repositorio Github](Imagenes/Captura52.png)
+
+**- Y finalmente confirmamos que cada uno este dentro de su grupo correspondiente**
+
+![Repositorio Github](Imagenes/Captura53.png)
 
 ###Maquina #2 (Con interfaz)
 
