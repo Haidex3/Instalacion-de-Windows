@@ -115,7 +115,7 @@
 
 ![Repositorio Github](Imagenes/Captura53.png)
 
-###Maquina #2 (Con interfaz)
+### Maquina #2 (Con interfaz)
 
 **- Igual que ocn la anterior realizamos los primeros pasos de la misma manera**
 
