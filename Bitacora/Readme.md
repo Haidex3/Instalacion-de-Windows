@@ -194,4 +194,28 @@
 
 ![Repositorio Github](Imagenes/Captura43.png)
 
-**- En este punto se deberia iniciar la configuracion de red, sin embargo al no estar disponible por el momento lo dejaremos momentaneamente por aqui**
+**- Ahora para configurar la red, nos metemos en la configuracion de ethernet, en "change adapter options"**
+
+![Repositorio Github](Imagenes/Captura54.png)
+
+**- Le damos click derecho sobre ethernet y elegimos "Properties"**
+
+![Repositorio Github](Imagenes/Captura55.png)
+
+**- Seleccionamos "Internet Protocol" y en sus propiedades**
+
+![Repositorio Github](Imagenes/Captura56.png)
+
+**- Actualizamos todos los datos internos por los propuestos en la guia**
+
+![Repositorio Github](Imagenes/Captura57.png)
+
+**- Le damos en aceptar**
+
+![Repositorio Github](Imagenes/Captura58.png)
+
+**- Y a partir de este momento ya podemos hacer las pruebas de ping y con esto damos por finalizado**
+
+![Repositorio Github](Imagenes/Captura59.png)
+
+![Repositorio Github](Imagenes/Captura60.png)
